@@ -1,0 +1,27 @@
+Asset ID,Product/Lane,Campaign,Topic/Hook,Contect Role,File Name,Asset Type,Platform,Status,Published Date,Metric ID,Product CTA,GitHub URL,Reusable?,Next Action,Notes
+BD-EVG-001,Website Strategy,,The Real Value of a Website,,tiktok_built_different2.mp4,,,,,,DIY Website Blueprint,,,,
+BD-EVG-002,Website Strategy,,The Value of a Website,,Value of a website TikTok,,,,,,DIY Website Blueprint,,,,
+BD-EVG-003,Website Strategy,,What Your Website Immediately Says About Your Business,,Immediately_Website_Says_Carousel,,,,,,DIY Website Blueprint,,,,
+BD-EVG-004,Business Systems,,What Is a CRM?,,What is a CRM,,,,,,Website Starter Kit,,,,
+BD-SEO-001,SEO / Visibility,,"SEO, AEO & GEO — What They Mean / How They Work Together",,Built_Different_SEO_AEO_GEO,,,,,,SEO Without the Sorcery,,,,
+BD-EVG-005,Website Strategy,,Why Are Websites So Expensive?,,Why Are Websites So Expensive,,,,,,DIY Website Blueprint,,,,
+BD-EVG-006,Website Strategy,,How Do You Decide What Your Website Needs?,,How Do You Decide Y...Website,,,,,,DIY Website Blueprint,,,,
+BD-CONT-001,Content Systems,,Just Post Every Day?,,Just_Post_Every_Day_I...nst...arousel,,,,,,Small Business Content Machine,,,,
+BD-SEO-002,SEO / Visibility,,SEO / AEO - Search Visibility,,Built_Different_SEO_A...EO_...LT_FINAL,,,,,,SEO Without the Sorcery,,,,
+BD-SEO-003,SEO / Visibility,,SEO for Small Business,,Built_Different_SEO_S...mall...ss_Final,,,,,,SEO Without the Sorcery,,,,
+BD-EVG-007,Website Strategy,,What Should Your Website Have?,,Built_Different_What_Sho...Carousel,,,,,,DIY Website Blueprint,,,,
+BD-SEO-004,SEO / Visibility,,How to Get Ranked / Found,,How_To_Get_Ranked_And...Carousel,,,,,,SEO Without the Sorcery / Get Found Locally*,,,,
+BD-EVG-008,Website Strategy,,What Should Be Included on Your Website?,,What_Should_Be_Included...VISED,,,,,,DIY Website Blueprint,,,,
+BD-AI-001,AI for Small Business,,Has AI Changed SEO?,,Built_Different_Has_A_I_Ch...EO_Final,,,,,,SEO Without the Sorcery,,,,
+BD-AI-002,AI for Small Business,,AI for Small Business,,Built_Different_AI_For_S...ss_FINAL,,,,,,ChatGPT Prompt Vault,,,,
+BD-SEO-005,SEO / Visibility,,Website Indexing — What It Is / Why It Matters,,Website_Indexing_Carousel,,,,,,SEO Without the Sorcery,,,,
+BD-EVG-009,Website Strategy,,Plan Your Website Before You Build It,,Built_Different_Plan...ing...te_FINAL,,,,,,DIY Website Blueprint,,,,
+BD-EVG-010,Website / Social Ecosystem,,Instagram Isn't Your Website,,Built_Different_Instagram_...Website,,,,,,DIY Website Blueprint,,,,
+BD-EVG-011,Website Maintenance,,Why Should You Back Up Your Website?,,Why_Should_You_Back_Up...arousel,,,,,,Website Starter Kit,,,,
+BD-EVG-012,Conversion Strategy,,Your Website Needs a Call to Action,,Built_Different_Call_To_Ac...T_FINAL,,,,,,DIY Website Blueprint,,,,
+BD-EVG-013,Website Strategy,,What Should Your Website Do?,,Built_Different_What_Sho...T_FINAL,,,,,,DIY Website Blueprint,,,,
+BD-VID-001,Website Strategy,DIY-01,Build Your Website in the Right Order,Sales / Authority Video,tiktok_built_different2.mp4,Video,TikTok,SCHEDULED,2026-09-22,380377256,DIY Website Blueprint,https://github.com/mandymulvihill17-ui/built-different-media/raw/refs/heads/main/tiktok_built_different2.mp4,YES,NONE,TikTok video for Sep 22 Claude/Metricool push.
+BD-VID-003,DIY Website Blueprint,DIY-02,Your Website Doesn't Start With Wix,Sales / Authority Video,03_DIY_Website_Blueprint.mp4,Video,Multi-platform,READY,,,DIY Website Blueprint,https://github.com/mandymulvihill17-ui/built-different-media/raw/refs/heads/main/03_DIY_Website_Blueprint.mp4,YES,READY TO SCHEDULE,Grok-produced approved video asset.
+BD-VID-004,SEO Without the Sorcery,SEO-01,SEO Isn't Something You Add to a Website,Sales / Authority Video,04_SEO_Without_The_Sorcery.mp4,Video,Multi-platform,READY,,,SEO Without the Sorcery,https://github.com/mandymulvihill17-ui/built-different-media/raw/refs/heads/main/04_SEO_Without_The_Sorcery.mp4,YES,READY TO SCHEDULE,Grok-produced approved video asset.
+BD-VID-005-TT,Get Found Locally,GFL-01,Being Local Doesn't Mean They Can Find You,Sales / Authority Video,get_found_locally_tiktok.mp4,Video,TikTok,READY,,,Get Found Locally,https://github.com/mandymulvihill17-ui/built-different-media/raw/refs/heads/main/get_found_locally_tiktok.mp4,YES,READY TO SCHEDULE,Grok-produced TikTok version.
+BD-VID-005-IG,Get Found Locally,GFL-01,Local SEO Isn't One Thing,Sales / Authority Video,get_found_locally_reel.mp4,Video,Instagram Reel,READY,,,Get Found Locally,https://github.com/mandymulvihill17-ui/built-different-media/raw/refs/heads/main/get_found_locally_reel.mp4,YES,READY TO SCHEDULE,Grok-produced Instagram Reel version.
